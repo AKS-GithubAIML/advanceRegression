@@ -54,8 +54,8 @@ Neighborhood_NridgHt
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by UpGrad bike-sharing assignment
-- This project was based on Linear Regression Module
+- This project was inspired by UpGrad Advance Regression assignment
+- This project was based on Ridge and Lasso Regression Model
 
 
 ## Contact
